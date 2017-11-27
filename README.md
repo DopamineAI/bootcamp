@@ -1,7 +1,7 @@
 # bootcamp
 Documented code samples for learning Dopamine.ai API
 ## Samples Structure
-Usually every use case would be located in it's own directory. a ReadMe file would explain generally what's going on in the use case. Some of the explanations are based on our graphic modeling language, that is explained [here](Dopamine Modeling Language.ipynb)
+Usually every use case would be located in it's own directory. a ReadMe file would explain generally what's going on in the use case. Some of the explanations are based on our graphic modeling language, that is explained [here](https://github.com/DopamineAI/bootcamp/blob/master/Dopamine%20Modeling%20Language.ipynb)
 ## Samples List
 - [Sample 1](https://github.com/DopamineAI/bootcamp/blob/master/01.%20Simple%20Image%20Trade/Readme_jupyter.ipynb) : Trading an image
 ## Prerequisits
