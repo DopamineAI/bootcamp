@@ -1,4 +1,4 @@
-# bootcamp
+![alt text](https://github.com/DopamineAI/bootcamp/blob/master/img/dopamine-ai-bootcamp-white.jpg)
 Documented code samples for learning Dopamine.ai API
 ## Samples Structure
 Usually every use case would be located in it's own directory. a ReadMe file would explain generally what's going on in the use case. Some of the explanations are based on our graphic modeling language, that is explained [here](https://github.com/DopamineAI/bootcamp/blob/master/Dopamine%20Modeling%20Language.ipynb)
