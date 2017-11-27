@@ -15,7 +15,7 @@ Currently supported OS is [Linux CentOS](https://www.centos.org/download/) only
 see [here](https://www.e2enetworks.com/help/knowledge-base/how-to-install-node-js-and-npm-on-centos/) installation instructions
 ### openssl 
 see [here](http://dev.antoinesolutions.com/openssl) installation instructions
-### solc\n
+### solc
 see [here](https://solidity.readthedocs.io/en/v0.3.4/installing-solidity.html) installation instructions
-### Tokens\n
+### Tokens
 For running the samples you will need DOPA & ETHER tokens, you can create a keystore directories and put there keystore files, that can be created in https://www.myetherwallet.com/
