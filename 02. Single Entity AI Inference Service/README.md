@@ -9,5 +9,5 @@ The \"Service\" is classifying a given image (in our case, identifying the lion 
 <img src="http://www.slate.com/content/dam/slate/articles/health_and_science/science/2015/07/150730_SCI_Cecil_lion.jpg.CROP.promo-xlarge2.jpg">
 
 ## Code samples
-- [Buyer side code](https://10.156.0.172:8889/notebooks/02.%20Single%20Entity%20AI%20Inference%20Service/buyer.ipynb)
-- [Seller side code](https://10.156.0.172:8889/notebooks/02.%20Single%20Entity%20AI%20Inference%20Service/seller.ipynb)
+- [Buyer side code](https://github.com/DopamineAI/bootcamp/blob/master/02.%20Single%20Entity%20AI%20Inference%20Service/buyer.ipynb)
+- [Seller side code](https://github.com/DopamineAI/bootcamp/blob/master/02.%20Single%20Entity%20AI%20Inference%20Service/seller.ipynb)
