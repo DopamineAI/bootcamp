@@ -82,13 +82,14 @@ class DigitClassifier(object):
                 while True:
                     self.train(x_train, y_train)
                     last_score = self.model.evaluate(DigitClassifier.x_test, DigitClassifier.y_test, verbose=0)
-                    if last_score[1] > score_after[1]:
-                        score_after = last_score
-                    else:
+                    if last_score[1] <= score_after[1]:
                         break
+                    score_after = last_score
             finally:
+                score_after = last_score
                 if score_before[1] > score_after[1]:
                     self.load(tempfile)
+                    score_after = score_before	
                 os.remove(tempfile)
             return score_before, score_after
 
