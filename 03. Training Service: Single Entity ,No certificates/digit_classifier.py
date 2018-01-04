@@ -9,7 +9,7 @@ from uuid import uuid4
 import os
 from os.path import join
 from mnist import MnistData
-
+import numpy as np
 
 __author__ = 'uyerushalmi'
 
@@ -59,6 +59,9 @@ class DigitClassifier(object):
     def predict(self, data):
         with self.graph.as_default():
             return self.model.predict(data, verbose=0)
+
+    def predict_classes(self, data):
+        return np.argmax(self.predict(data),1)
 
     def evaluate(self):
         with self.graph.as_default():
