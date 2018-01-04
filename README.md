@@ -5,6 +5,7 @@ Usually every use case would be located in it's own directory. a ReadMe file wou
 ## Samples List
 - [Sample 1](https://github.com/DopamineAI/bootcamp/blob/master/01.%20Simple%20Image%20Trade/Readme_jupyter.ipynb) : Trading an image
 - [Sample 2](https://github.com/DopamineAI/bootcamp/blob/master/02.%20Single%20Entity%20AI%20Inference%20Service/ReadMe_jupyter.ipynb) : AI inference service, single entity
+- [Sample 3](https://github.com/DopamineAI/bootcamp/blob/master/03.%20Training%20Service:%20Single%20Entity%20%2CNo%20certificates/ReadMe_Jupyter.ipynb): AI Teaching service
 ## Prerequisits
 ### OS
 Currently supported OS is [Linux CentOS](https://www.centos.org/download/) only 
