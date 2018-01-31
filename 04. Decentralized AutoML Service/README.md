@@ -1,4 +1,4 @@
-# Transfer Learning ExampleIn this sample, several teachers give training services to a "student" - a learning service. 
+# Transfer Learning Example
 
 In this sample, a "Consumer" needs to classify set of images with the characters 7,8,9,0 while it has very few images to be used for training (42). The consumer uses a Dopamine service provided by the "Provider", that was trained on classifying totally different set of images (1-6), to create it's own classifier:
 
