@@ -20,6 +20,6 @@ The consumer codes that she expects the data to flow in a pipeline created by th
 # Code Samples
 
 - [Entity A (Client)](https://github.com/DopamineAI/bootcamp/blob/master/05.%20Multi%20Entity%20AI%20Trainable%20Servide/client.ipynb)
-- [Entity A (Retina)](https://github.com/DopamineAI/bootcamp/blob/master/05.%20Multi%20Entity%20AI%20Trainable%20Servide/retina.ipynb)
+- [Entity R (Retina)](https://github.com/DopamineAI/bootcamp/blob/master/05.%20Multi%20Entity%20AI%20Trainable%20Servide/retina.ipynb)
 - [Entity V (VisualCortex)](https://github.com/DopamineAI/bootcamp/blob/master/05.%20Multi%20Entity%20AI%20Trainable%20Servide/visualcortex.ipynb)
 - [Entity C (classifier)](https://github.com/DopamineAI/bootcamp/blob/master/05.%20Multi%20Entity%20AI%20Trainable%20Servide/classifier.ipynb)
