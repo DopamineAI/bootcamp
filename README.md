@@ -7,9 +7,8 @@ Usually every use case would be located in it's own directory. a ReadMe file wou
 - [Sample 2](https://github.com/DopamineAI/bootcamp/blob/master/02.%20Single%20Entity%20AI%20Inference%20Service/ReadMe_jupyter.ipynb) : AI inference service, single entity
 - [Sample 3](https://github.com/DopamineAI/bootcamp/blob/master/03.%20Training%20Service:%20Single%20Entity%20%2CNo%20certificates/ReadMe_Jupyter.ipynb): AI Teaching service
 - [Sample 4](https://github.com/DopamineAI/bootcamp/blob/19de0dcc74fb1213b7ab2336001eee149a4c23ea/04.%20Decentralized%20AutoML%20Service/ReadMe_Jupyter.ipynb): Transfer Learning
-- [Sample 5]
-(https://github.com/DopamineAI/bootcamp/blob/master/05.%20Multi%20Entity%20AI%20Trainable%20Servide/ReadMe_Jupyter.ipynb) : Decentralized NNs
-(
+- [Sample 5](https://github.com/DopamineAI/bootcamp/blob/master/05.%20Multi%20Entity%20AI%20Trainable%20Servide/ReadMe_Jupyter.ipynb) : Decentralized NNs
+
 ## Prerequisits
 ### OS
 Currently supported OS is [Linux CentOS](https://www.centos.org/download/) only 
